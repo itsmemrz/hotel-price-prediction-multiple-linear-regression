@@ -1,1 +1,5 @@
 # hotel-price-prediction-multiple-linear-regression
+
+The objective of this analysis is to predict the pricing accommodations in Ubud, Bali, based on some factors that are of our interest (maximum number of guests, number of rooms, amenities, etc.), using publicly available data provided by Airbnb. Since the target variable is the price of accommodations (i.e. continuous numerical variable), the method used is Multiple Linear Regression.  To make data manipulation and model building easier, I used Jupyter Notebook.
+
+Note that our dataset is limited to accommodations located in and around Ubud municipality in Bali, Indonesia, and the price stated is for around end of year holidays in 2021, which price might be higher than that in other days. However, the data was also obtained during Covid-19 pandemic, which undoubtedly had impact on supplies and demands of goods and services and, eventually, accommodations’ pricing. Therefore, the exact model that we built may not necessarily be appropriate for other areas or other periods of time. Nevertheless, the logical reasoning behind this analysis may be reused for other places and times.
